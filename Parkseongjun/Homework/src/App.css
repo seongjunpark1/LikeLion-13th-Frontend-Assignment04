@@ -1,0 +1,19 @@
+.container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgb(0,0,0,0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  width: 100%;
+  flex-direction: column;
+}
+button {
+  font-size: 24px;
+  width: 10%;
+  padding: 20px;
+  border-radius: 10px;
+} 
+
+

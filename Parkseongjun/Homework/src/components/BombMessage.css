@@ -1,0 +1,11 @@
+.fighting {
+    color: red;
+}
+
+.effect-container {
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgb(0,0,0,0.3);
+}
